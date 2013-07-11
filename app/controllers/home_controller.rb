@@ -33,6 +33,9 @@ class HomeController < ApplicationController
   
   def company
   end
+
+  def test_method
+  end
   
   
   private
